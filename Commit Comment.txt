@@ -1,0 +1,19 @@
+
+Installed Tools :
+
+Cursor IDE
+Claude Code
+Code X
+Steps Completed :
+
+Created GitHub profile and logged in
+Installed Cursor
+Added Claude Code and CodeX extensions to Cursor
+Linked GitHub account to the cursor
+Created Public GitHub Repository
+Created README.md
+Issues / Challenges Faced :
+
+Initially I couldn't add "Claude Code" and "CodeX" extensions
+Then I explored all menu and referred youtube to find solution and I linked all the extensions after that
+After that I couldn't add the repository to Cursor, again I browsed Youtube and linked it to Cursor
